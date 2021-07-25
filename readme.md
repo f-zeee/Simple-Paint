@@ -17,3 +17,11 @@ My application has the following features :
 - user can move rectangles by dragging and dropping them
 
 - user can double click on a rectangle to delete it
+
+
+
+
+
+![alt text](i1.png)
+
+![alt text](i2.png)
